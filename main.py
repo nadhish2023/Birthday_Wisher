@@ -3,8 +3,8 @@ import random
 import datetime as dt
 import pandas as pd
 
-mail_id="nadhish.sn@gmail.com"
-password="bfvgkwpopsvgmiiq"
+mail_id="your mail id"
+password="your password"
 
 birthdays=pd.read_csv("birthdays.csv")
 now=dt.datetime.now()
